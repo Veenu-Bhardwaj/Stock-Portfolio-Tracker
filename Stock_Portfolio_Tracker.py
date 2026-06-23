@@ -1,6 +1,5 @@
 # ============================================
-# TASK 2 — STOCK PORTFOLIO TRACKER
-# CodeAlpha Python Programming Internship
+# Python— STOCK PORTFOLIO TRACKER
 # Author: Veenu Bhardwaj
 # ============================================
  
